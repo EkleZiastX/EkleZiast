@@ -18,7 +18,7 @@
 ---
 
 # 📌 About me
- I am a Back-End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Ukraine.
+ I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Ukraine.
 
 #### - 🌐 Name: Eugenee
 ✉️ Nick: EkleZiast
