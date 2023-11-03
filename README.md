@@ -40,7 +40,6 @@
 - Favorite Color: Purple
 - Eye Color: Brown.
 
-#### I Luv u ❤️
 ---
 ### :hammer_and_wrench: Languages and Tools :
 
