@@ -29,11 +29,11 @@
 - Windows 10
 - Arch Linux
 
-####🌟 Experience:
+#### - 🌟 Experience:
 
 With 4 years of experience under my belt, I have delved deep into the realm of programming, navigating through various projects that have honed my skills and broadened my perspective.
 
-####🌿 Projects:
+#### - 🌿 Projects:
 
 1. Crafting Telegram Bots: Crafting interactive bots that not only automate tasks but also engage users in meaningful conversations.
    
@@ -41,15 +41,15 @@ With 4 years of experience under my belt, I have delved deep into the realm of p
    
 3. GUI Applications: Designing visually appealing graphical user interfaces to facilitate seamless interactions with applications.
 
-####🚀 Skills and Methods:
+#### - 🚀 Skills and Methods:
 
 In my journey, I have mastered the art of code optimization, diligently testing and refining code for enhanced efficiency. Reading through lines of code has become second nature, enabling me to dissect and comprehend diverse coding solutions effortlessly.
 
-####🎯 Professional Goals:
+#### - 🎯 Professional Goals:
 
 My aspirations are driven by a passion for elevating my programming prowess, contributing significantly to the growth of any organization I am part of, while continuously fostering my personal development.
 
-####🌺 Additional Tidbits:
+#### - 🌺 Additional Tidbits:
 
 With a knack for communication and a penchant for innovative ideas, I thrive in collaborative environments, bringing forth fresh perspectives and insights to the table.
 ---
