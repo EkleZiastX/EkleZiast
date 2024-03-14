@@ -53,6 +53,7 @@ My aspirations are driven by a passion for elevating my programming prowess, con
 
 With a knack for communication and a penchant for innovative ideas, I thrive in collaborative environments, bringing forth fresh perspectives and insights to the table.
 ---
+
 ### :hammer_and_wrench: Languages and Tools :
 
 <div>
