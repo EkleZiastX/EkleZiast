@@ -61,7 +61,7 @@ With a knack for communication and a penchant for innovative ideas, I thrive in 
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=git,c,cpp,discord,github,linux,python,bots,qt,sqlite,&perline=14" />
+<img src="https://skillicons.dev/icons?i=c,cpp,python,bots,sqlite,qt,discord,git,github,linux,&perline=14" />
   </a>
 </p>
  
